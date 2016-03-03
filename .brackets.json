@@ -1,0 +1,19 @@
+{
+    "fonts.fontSize": "17px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "livedev.multibrowser": false,
+    "linting.collapsed": true,
+    "me.drewh.jsbeautify.on_save": false,
+    "useTabChar": true,
+    "tabSize": 3,
+    "themes.theme": "dark-theme",
+    "jslint.options": {
+        "white": true,
+        "predef": [
+            "jQuery",
+            "angular"
+        ]
+    },
+    "wordWrap": false,
+    "styleActiveLine": true
+}
