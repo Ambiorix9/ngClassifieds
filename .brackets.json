@@ -2,7 +2,7 @@
     "fonts.fontSize": "17px",
     "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
     "livedev.multibrowser": false,
-    "linting.collapsed": true,
+    "linting.collapsed": false,
     "me.drewh.jsbeautify.on_save": false,
     "useTabChar": true,
     "tabSize": 3,
